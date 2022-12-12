@@ -8,7 +8,7 @@ export default function EtcPage() {
   return (
     <div className={styles.travel}>
       <div className={styles.con7}>
-        <h1>{name}'s ETC</h1>
+        <h1>{name}&apos;s ETC</h1>
         <div className={styles.etc1}>
           <b>Soccer</b>
           <br />

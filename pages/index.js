@@ -8,12 +8,12 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>SongSongChae's WEBSITE</title>
+        <title>SongSongChae&apos;s WEBSITE</title>
       </Head>
       <main className={styles.main}>
         <h1 className={styles.title}>
           Welcome <br />
-          SongSongChae's WEBSITE
+          SongSongChae&apos;s WEBSITE
         </h1>
       </main>
       <div className={styles.image}>

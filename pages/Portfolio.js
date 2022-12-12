@@ -7,7 +7,7 @@ export default function PortfolioPage() {
   const name = "SongSongChae";
   return (
     <div className={styles.portfolio}>
-      <h1>{name}'s PORTFOLIO</h1>
+      <h1>{name}&apos;s PORTFOLIO</h1>
       <div className={styles.con8}>
         <div className={styles.port1}>
           <b>SCYWEB</b>

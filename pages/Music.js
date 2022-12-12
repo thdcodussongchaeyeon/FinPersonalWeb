@@ -7,7 +7,7 @@ export default function MusicPage() {
   const name = "SongSongChae";
   return (
     <div className={styles.music}>
-      <h1>{name}'s MUSIC</h1>
+      <h1>{name}&apos;s MUSIC</h1>
       <div className={styles.con4}>
         <div className={styles.mus1}>
           <a href="https://youtu.be/UdnCxnYvb2o">
@@ -35,7 +35,7 @@ export default function MusicPage() {
             <Image src="/img/mus4.jpg" width={500} height={500} />
           </a>
           <br />
-          <b>Summer - Paul Blanco (Feat. BE'O(비오))</b>
+          <b>Summer - Paul Blanco (Feat. BE&apos;O(비오))</b>
         </div>
         <div className={styles.mus5}>
           <a href="https://youtu.be/t6VgxIIHsqk">

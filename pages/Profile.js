@@ -6,7 +6,7 @@ export default function ProfilePage() {
   const name = "SongSongChae";
   return (
     <div className={styles.profile}>
-      <h1>{name}'s PROFILE</h1>
+      <h1>{name}&apos;s PROFILE</h1>
       <div className={styles.con1}>
         <div className={styles.con2}>
           <Image src="/img/profile.jpg" width={500} height={650} />

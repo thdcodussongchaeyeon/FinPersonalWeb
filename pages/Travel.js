@@ -8,7 +8,7 @@ export default function TravelPage() {
   return (
     <div className={styles.travel}>
       <div className={styles.con6}>
-        <h1>{name}'s TRAVEL</h1>
+        <h1>{name}&apos;s TRAVEL</h1>
         <div className={styles.tra1}>
           <b>여수</b>
           <br />

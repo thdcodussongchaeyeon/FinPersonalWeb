@@ -7,7 +7,7 @@ export default function ClothesPage() {
   const name = "SongSongChae";
   return (
     <div className={styles.clothes}>
-      <h1>{name}'s CLOTHES</h1>
+      <h1>{name}&apos;s CLOTHES</h1>
       <div className={styles.con5}>
         <div className={styles.clo1}>
           <a href="https://kream.co.kr/products/38367">
@@ -37,7 +37,7 @@ export default function ClothesPage() {
             <Image src="/img/clo4.jpg" width={500} height={500} />
           </a>
           <br />
-          <b>Nike x Stussy Air Force 1 '07 Mid SP Black and Light Bone</b>
+          <b>Nike x Stussy Air Force 1 &apos;07 Mid SP Black and Light Bone</b>
         </div>
         <div className={styles.clo5}>
           <a href="https://kream.co.kr/products/31662">

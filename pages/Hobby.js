@@ -7,7 +7,7 @@ export default function HobbyPage() {
   const name = "SongSongChae";
   return (
     <div className={styles.hobby}>
-      <h1>{name}'s HOBBY</h1>
+      <h1>{name}&apos;s HOBBY</h1>
       <div>
         <div className={styles.mus}>
           <Link href="/Music">
