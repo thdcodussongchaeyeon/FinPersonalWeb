@@ -9,7 +9,8 @@
 }
 
 .image {
-  margin: 250px 500px;
+  margin: 0 500px;
+  margin-top: 50px;
 }
 
 .main {
