@@ -27,6 +27,15 @@ export default function PortfolioPage() {
             </a>
           </div>
         </div>
+        <div className={styles.port3}>
+          <b>Ping-Pong</b>
+          <br />
+          <div className={styles.port3img}>
+            <a href="https://ping-pongpong.vercel.app/">
+              <Image src="/img/port3.png" width={1200} height={800} />
+            </a>
+          </div>
+        </div>
       </div>
     </div>
   );

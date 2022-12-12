@@ -9,7 +9,7 @@
 }
 
 .image {
-  margin: 0 500px;
+  margin: 300px 500px;
 }
 
 .main {
@@ -257,23 +257,27 @@
 }
 
 .port1,
-.port2 {
+.port2,
+.port3 {
   margin: -10px auto 60px 230px;
   float: left;
 }
 
 .port1 b,
-.port2 b {
+.port2 b,
+.port3 b {
   font-size: 30px;
 }
 
 .port1img,
-.port2img {
+.port2img,
+.port3img {
   margin-top: 20px;
 }
 
 .port1img:hover,
-.port2img:hover {
+.port2img:hover,
+.port3img:hover {
   transform: scale(1.05);
 }
 
